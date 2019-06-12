@@ -1,2 +1,0 @@
-# testCalulator
-simple calciulator
